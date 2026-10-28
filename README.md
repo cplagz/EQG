@@ -1,5 +1,17 @@
 # Emby Maximum Playback Quality Guide
 
+## Real screenshot references
+
+The Android mobile bitrate step and Web app playback-settings step include real,
+locally bundled screenshots with source credits and tap-to-enlarge controls.
+Android TV and Fire TV also offer an expandable Android TV player-menu reference
+that explicitly applies to the current video only. Public source captures are
+historical examples; other steps retain labeled illustrations. See
+`assets/screenshots/SOURCES.md` for source dates, credits, and coverage.
+
+Keep `screenshots.js`, `screenshots.css`, and `assets/` beside the original files
+when publishing. No external image hosting is needed.
+
 A lightweight, responsive, static, interactive guide for choosing the highest available streaming bitrate across Emby clients.
 
 ## Files
